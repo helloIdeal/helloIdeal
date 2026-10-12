@@ -5,8 +5,6 @@ Exploring practical ways to turn ideas into useful digital products.
 
 Interested in AI, automation, open-source technology and building tools that solve everyday problems.
 
-[Website](https://idealismail.com)
-
 ## What I'm exploring
 
 | Area | Focus |
@@ -20,7 +18,7 @@ Interested in AI, automation, open-source technology and building tools that sol
 
 | Project | Description |
 
-| domainjourney.com | .com-only domain name engine |
+| [domainjourney.com](https://domainjourney.com) | .com-only domain name engine |
 
 
 ## Currently learning
