@@ -7,12 +7,10 @@ Interested in AI, automation, open-source technology and building tools that sol
 
 ## What I'm exploring
 
-| Area | Focus |
-|---|---|
-| AI & Automation | Agents, assistants, workflows |
-| Web Applications | Python, Django, React |
-| Self-Hosting | VPS, Docker, deployment |
-| Digital Products | Useful tools and experiments |
+- AI & Automation
+- Web Applications
+- Self-Hosting
+- Digital Products
 
 ## Projects & Experiments
 
